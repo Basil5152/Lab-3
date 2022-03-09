@@ -3,8 +3,8 @@
  <head>
     <title> second page </title> 
 </head>
-
- <body meta charset= "UTF-8">
+<meta charset= "UTF-8">
+ <body>
 	
 	<nav>
     <a href="#https://www.w3schools.com/html/">HTML</a> |
